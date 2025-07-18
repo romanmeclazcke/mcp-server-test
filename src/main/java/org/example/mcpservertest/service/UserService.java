@@ -1,6 +1,7 @@
-package org.example.mcpservertest;
+package org.example.mcpservertest.service;
 
 
+import org.example.mcpservertest.models.User;
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.ai.tool.annotation.ToolParam;
 import org.springframework.stereotype.Service;
